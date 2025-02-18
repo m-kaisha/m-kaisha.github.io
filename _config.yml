@@ -30,7 +30,7 @@ twitter_username: stateofrisk
 github_username:  m-kaisha
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
